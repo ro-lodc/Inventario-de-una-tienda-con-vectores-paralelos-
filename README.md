@@ -1,4 +1,4 @@
-# Inventario-de-una-tienda-con-vectores-paralelos-
+# Inventario de una tienda con vectores paralelos.
 
 Implementar un programa de inventario de tienda con vectores paralelos en C++
 
