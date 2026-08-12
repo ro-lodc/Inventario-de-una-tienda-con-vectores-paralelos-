@@ -17,4 +17,5 @@ bash
 g++ -o inventario inventario_vectores_paralelos.cpp
 ./inventario
 ![Image Alt](https://github.com/ro-lodc/Inventario-de-una-tienda-con-vectores-paralelos-/blob/f299467674a7cf5a973ae84dd10da61a312cd6af/Captura%20de%20pantalla%202026-08-12%20011004.png)
+![Image Alt](https://github.com/ro-lodc/Inventario-de-una-tienda-con-vectores-paralelos-/blob/1041bf1e218f9ddb2645c914b6f3c0a79c8cc43b/Captura%20de%20pantalla%202026-08-12%20011130.png)
 ![Image Alt]()
