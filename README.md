@@ -16,4 +16,4 @@ Cómo compilar y ejecutar
 bash
 g++ -o inventario inventario_vectores_paralelos.cpp
 ./inventario
-![Image Alt](Captura de pantalla 2026-08-12 011004.png)
+![Image Alt]()
